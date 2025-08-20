@@ -89,4 +89,4 @@ LinkedIn
 
 GitHub
 
-Email
+Email Janvilohar1992@gmail.com
