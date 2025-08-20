@@ -61,6 +61,9 @@ Custom Calendar & Day
 ✅ Custom Calendar Table – For time intelligence functions
 
 🔹 Dashboard Preview
+![Dashboard 1](images/deshboard1.png)
+![Dashboard 2](images/desh2.png)
+![Dashboard 3](images/desh3.png)
 
 
 
